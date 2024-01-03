@@ -1,6 +1,6 @@
 ***An assignment on face mask detection: 3 types of classifications.***
 
-This was a group assignment. We, group 10, were assigned to do **an assignment on detecting whether people were wearing masks properly or not. We had to classify the detection into three classes: 1) Masked 2) Unmasked 3) Improperly masked.**
+This was a group assignment. We, group 10, were assigned to do **an assignment on detecting whether people were wearing masks properly or not. We had to classify the detection into three classes: 1) *Masked* 2) *Unmasked* 3) *Improperly masked.***
 
 Submitted to: DR. DEBAJYOTI KARMAKER, Faculty, AIUB.
 
